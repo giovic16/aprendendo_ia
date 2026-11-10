@@ -7,6 +7,7 @@ frase = "Olá, eu sou a Giovana"
 print(frase)
 print(frase[20])
 print(frase[0:3])
+print(frase[0:-5])
 print(len(frase))
 
 nome = "Giovana"
