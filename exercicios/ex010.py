@@ -1,3 +1,3 @@
 saudacao = "Seja bem vindo(a)"
-nome = "Giovana"
-print(saudacao + " " + nome)
+nome = " Giovana"
+print(saudacao + nome)
